@@ -16,7 +16,7 @@ winning_candidate=str()
 winning_candidate_count=0
 winning_candidate_percentage=0
 
-#Create an empty string that hold the county name that had the largest turn out
+#Create an empty string that hold the county's name that had the largest turn out
 winning_county=''
 winning_county_count=0
 winning_county_percentage=0
